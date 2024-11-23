@@ -1,0 +1,3 @@
+*.pks linguist-language=SQL
+*.pkb linguist-language=SQL
+*.pls linguist-language=SQL
